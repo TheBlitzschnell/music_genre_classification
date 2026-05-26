@@ -276,11 +276,11 @@ For questions or collaboration:
 If you use this code in your research, please cite:
 ```bibtex
 @misc{music-genre-classification-2025,
-  author = {Your Name},
+  author = {Sina Sepehrazar},
   title = {Music Genre Classification with Parallel CNN Ensemble},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/music-genre-classification}
+  url = {https://github.com/TheBlitzschnell/music-genre-classification}
 }
 ```
 
